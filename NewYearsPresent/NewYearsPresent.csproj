@@ -42,7 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Candy.cs" />
+    <Compile Include="Classes\CandyCreator.cs" />
     <Compile Include="Classes\Chocolate.cs" />
+    <Compile Include="Classes\ChocolateCreator.cs" />
+    <Compile Include="Classes\Creator.cs" />
     <Compile Include="Classes\Sweet.cs" />
     <Compile Include="Enums\ChocolateColor.cs" />
     <Compile Include="Enums\TypeCandy.cs" />
