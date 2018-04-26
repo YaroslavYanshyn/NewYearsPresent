@@ -46,17 +46,17 @@
     <Compile Include="Classes\Chocolate.cs" />
     <Compile Include="Classes\ChocolateCreator.cs" />
     <Compile Include="Classes\Creator.cs" />
+    <Compile Include="Classes\Gift.cs" />
     <Compile Include="Classes\Sweet.cs" />
     <Compile Include="Enums\ChocolateColor.cs" />
     <Compile Include="Enums\TypeCandy.cs" />
+    <Compile Include="Interfaces\IGift.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Interfaces\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
