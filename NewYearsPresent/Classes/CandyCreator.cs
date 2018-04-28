@@ -7,7 +7,7 @@ using NewYearsPresent.Enums;
 
 namespace NewYearsPresent.Classes
 {
-    class CandyCreator : Creator
+    public class CandyCreator : Creator
     {
         public override Sweet FactoryMethod(string chocoName, int chocoWeight, int chocoSugar, int chocoCalories,
             TypeCandy type)

@@ -1,0 +1,11 @@
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.Demo.exe.config
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.Demo.exe
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.Demo.pdb
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.exe
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.pdb
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\bin\Debug\NewYearsPresent.exe.config
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\obj\Debug\NewYearsPresent.Demo.csprojResolveAssemblyReference.cache
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\obj\Debug\NewYearsPresent.Demo.csproj.CoreCompileInputs.cache
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\obj\Debug\NewYearsPresent.Demo.csproj.CopyComplete
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\obj\Debug\NewYearsPresent.Demo.exe
+C:\Users\Ярослав\Documents\Visual Studio 2017\Projects\NewYearsPresent\NewYearsPresent.Demo\obj\Debug\NewYearsPresent.Demo.pdb
