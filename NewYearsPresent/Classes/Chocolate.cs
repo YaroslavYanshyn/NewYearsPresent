@@ -7,7 +7,7 @@ using NewYearsPresent.Enums;
 
 namespace NewYearsPresent.Classes
 {
-    public class Chocolate : Sweet
+     class Chocolate : Sweet
     {
         public ChocolateColor color;
 
