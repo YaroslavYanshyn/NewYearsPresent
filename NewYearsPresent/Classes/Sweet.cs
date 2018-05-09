@@ -8,7 +8,7 @@ namespace NewYearsPresent.Classes
 {
     public abstract class Sweet
     {
-        public string name { get; private set; }
+        public string name { get; private set; }// Name
         public int weight { get; private set; }
         public int sugar { get; private set; }
         public int calories { get; private set; }

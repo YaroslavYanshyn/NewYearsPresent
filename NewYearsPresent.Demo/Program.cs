@@ -35,7 +35,6 @@ namespace NewYearsPresent.Demo
                 {
                     gift.Add(i.FactoryMethod("Nestle",100,150,200,ChocolateColor.BlackChocolate));
                     gift.Add(i.FactoryMethod("Alpen Gold",120,120,150,ChocolateColor.WhiteChcolate));
-
                 }
                 
             }
@@ -55,5 +54,8 @@ namespace NewYearsPresent.Demo
 
             Console.ReadKey();
         }
+
+
+  
     }
 }
